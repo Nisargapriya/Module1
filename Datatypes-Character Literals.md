@@ -1,3 +1,4 @@
+```markdown
 # Datatypes-Character Literal in Python
 
 ## 🎯 Aim
@@ -9,6 +10,24 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 
+```python
+print('T')
+print('a')
+
+```
+
 ## Output
 
+```text
+T
+a
+
+```
+
 ## Result
+
+The Python program demonstrating the use and display of character literals was executed successfully, and the output was verified.
+
+```
+
+```
