@@ -1,3 +1,4 @@
+```markdown
 # Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
@@ -10,6 +11,24 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+```python
+men_stepped_on_the_moon = input()
+print(men_stepped_on_the_moon)
+
+```
+
 ## Output
 
+```text
+Neil Armstrong
+Neil Armstrong
+
+```
+
 ## Result
+
+The Python program to read a string from the user and print it was executed successfully, and the output was verified.
+
+```
+
+```
